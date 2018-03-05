@@ -1,0 +1,7 @@
+Dodanych: 2
+Zamówienie: 
+|Nazwa towaru        |Cena          |Sztuk    |Koszt      |Z rabatem
+|Cukier              |2,30 zł.      |12 szt.  |27,60 zł.  |24,84 zł.
+|Kwiaty              |19,99 zł.     |2 szt.   |39,98 zł.  |39,98 zł.
+
+Razem: 64,82 zł.
