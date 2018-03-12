@@ -17,12 +17,13 @@ public class Zamowienie implements Serializable
     public Zamowienie()
     {
         maksRozmiar = 10;
+        tab=new Pozycja[this.maksRozmiar];
     }
 
     public Zamowienie(int maksRozmiar)
     {
-        tab = new Pozycja[maksRozmiar];
         this.maksRozmiar = maksRozmiar;
+        tab = new Pozycja[maksRozmiar];
     }
 
     //metoda dodająca pozycję do zamówienia
